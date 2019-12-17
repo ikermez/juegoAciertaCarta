@@ -6,6 +6,12 @@ public class Principal {
 		//Este es programa principal
 		
 		Carta cartaIker = new Carta("Bastos", 4);
+		
+		
+		Carta nuevo = new Carta("Copas", 6);	
 	}
 
+	
+	
+	
 }
